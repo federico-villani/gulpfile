@@ -1,4 +1,4 @@
-# 👹 Gulpfile 👹
+# 👹 Gulpfile
 
 #### ⚠️ legacy code 🤷
 
