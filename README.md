@@ -4,7 +4,7 @@
 
 A simple gulpfile with some utils, ready to be shared across different projects
 
-## How to install gulp.js and how to use it
+## How to install and use gulp.js
 please refer to gulp installation
 
 [Gulp Installation Guide](https://gulpjs.com/docs/en/getting-started/quick-start)
