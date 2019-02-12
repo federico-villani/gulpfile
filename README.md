@@ -11,11 +11,21 @@ please refer to gulp installation
 
 ## What you get
 In this gulpfile you'll find 
-- SASS ( with autoprefixer, sourcemaps, media query combination and optimization, minification and concatenation in DEV and PROD version)
-- image optimization
-- js hint
-- js minification and concatenation
+- SASS 
+    - Compile and watch tasks
+    - Autoprefixer
+    - Sourcemaps
+    - Media query combination and optimization
+    - Minification and concatenation
+    - DEV and PROD version
+- JS
+  - Compile and watch tasks
+  - Minification and concatenation
+   - DEV and PROD version
+- Images
+  - Optimization and conversion
 - BrowserSync
+  
   
 ```tsx
   // include gulp
