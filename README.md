@@ -17,7 +17,7 @@ In this gulpfile you'll find
 - js minification and concatenation
 - BrowserSync
   
-```tsx
+```
   // include gulp
   var gulp = require('gulp');
   
