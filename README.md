@@ -4,12 +4,12 @@
 
 A simple gulpfile with some utils, ready to be shared across different projects
 
-## how to install gulp.js and how to use it
+## How to install gulp.js and how to use it
 please refer to gulp installation
 
 [Gulp Installation Guide](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-## What's included
+## What you get
 In this gulpfile you'll find 
 - SASS ( with autoprefixer, sourcemaps, media query combination and optimization, minification and concatenation in DEV and PROD version)
 - image optimization
